@@ -1,0 +1,136 @@
+2020-11-20 11:11:38,257 INFO notifyConnectTimeout:200
+
+2020-11-20 11:11:38,273 INFO notifySocketTimeout:8000
+
+2020-11-20 11:11:38,273 INFO isHealthCheck:true
+
+2020-11-20 11:11:38,273 INFO maxHealthCheckFailCount:12
+
+2020-11-20 11:11:38,274 INFO maxContent:10485760
+
+2020-11-20 11:11:42,660 INFO Schema 'NACOS' already exists.
+
+2020-11-20 11:11:42,827 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,034 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,225 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,392 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,531 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,744 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:43,904 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,074 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,265 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,382 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,516 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,652 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:44,949 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:45,160 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2020-11-20 11:11:45,301 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL201116141900120' defined on 'USERS'.
+
+2020-11-20 11:11:45,475 WARN DumpService start
+
+2020-11-20 11:11:45,485 INFO start clear all config-info.
+
+2020-11-20 11:11:45,495 WARN clear all config-info failed.
+
+2020-11-20 11:11:45,495 WARN clear all config-info-tenant failed.
+
+2020-11-20 11:11:45,620 INFO start clear all config-info-beta.
+
+2020-11-20 11:11:45,620 WARN clear all config-info-beta failed.
+
+2020-11-20 11:11:45,620 WARN clear all config-info-beta-tenant failed.
+
+2020-11-20 11:11:45,638 INFO start clear all config-info-tag.
+
+2020-11-20 11:11:45,638 WARN clear all config-info-tag failed.
+
+2020-11-20 11:11:45,639 WARN clear all config-info-tag-tenant failed.
+
+2020-11-20 11:11:47,092 INFO ServerListService address-server port:8848
+
+2020-11-20 11:11:47,093 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-11-20 11:11:47,094 WARN [serverlist] updated to [169.254.198.237]
+
+2020-11-20 11:12:31,310 INFO notifyConnectTimeout:200
+
+2020-11-20 11:12:31,311 INFO notifySocketTimeout:8000
+
+2020-11-20 11:12:31,311 INFO isHealthCheck:true
+
+2020-11-20 11:12:31,311 INFO maxHealthCheckFailCount:12
+
+2020-11-20 11:12:31,311 INFO maxContent:10485760
+
+2020-11-20 11:12:33,026 INFO Schema 'NACOS' already exists.
+
+2020-11-20 11:12:33,276 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:33,438 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:33,573 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:33,686 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:33,808 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:33,922 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,064 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,163 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,270 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,397 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,547 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:34,870 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:35,022 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:35,141 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2020-11-20 11:12:35,280 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL201116141900120' defined on 'USERS'.
+
+2020-11-20 11:12:35,452 WARN DumpService start
+
+2020-11-20 11:12:35,459 INFO start clear all config-info.
+
+2020-11-20 11:12:35,471 WARN clear all config-info failed.
+
+2020-11-20 11:12:35,471 WARN clear all config-info-tenant failed.
+
+2020-11-20 11:12:35,652 INFO start clear all config-info-beta.
+
+2020-11-20 11:12:35,653 WARN clear all config-info-beta failed.
+
+2020-11-20 11:12:35,653 WARN clear all config-info-beta-tenant failed.
+
+2020-11-20 11:12:35,672 INFO start clear all config-info-tag.
+
+2020-11-20 11:12:35,673 WARN clear all config-info-tag failed.
+
+2020-11-20 11:12:35,673 WARN clear all config-info-tag-tenant failed.
+
+2020-11-20 11:12:36,969 INFO ServerListService address-server port:8848
+
+2020-11-20 11:12:36,969 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2020-11-20 11:12:36,970 WARN [serverlist] updated to [169.254.198.237]
+

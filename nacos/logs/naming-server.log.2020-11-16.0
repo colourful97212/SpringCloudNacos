@@ -1,0 +1,124 @@
+2020-11-16 14:18:42,033 INFO listen for service meta change
+
+2020-11-16 14:19:05,283 INFO [SERVER-INIT] got port: 8848
+
+2020-11-16 14:19:05,283 INFO [SERVER-INIT] got path: /nacos
+
+2020-11-16 14:19:16,639 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2020-11-16 14:19:33,045 INFO [HEALTH-CHECK] health check is false
+
+2020-11-16 14:20:16,645 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-11-16 14:24:33,046 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:29:33,376 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:34:33,377 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:39:33,379 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:44:33,380 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:49:33,381 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:54:33,383 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 14:59:33,383 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:04:33,385 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:09:33,387 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:14:33,389 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:19:33,437 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:24:33,438 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:29:33,440 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:34:33,441 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:39:33,442 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:44:33,443 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:49:33,444 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:54:33,446 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 15:59:33,459 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:04:33,461 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:09:33,462 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:14:33,464 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:19:33,466 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:24:33,466 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:29:33,467 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:34:33,468 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:39:33,470 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:44:33,472 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:49:33,474 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:54:33,475 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 16:59:33,477 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:04:33,478 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:09:33,595 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:14:33,596 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:19:33,598 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:24:33,599 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:29:33,600 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:34:33,601 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:39:33,612 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:44:33,701 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:49:33,703 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:54:33,704 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 17:59:33,705 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:04:33,707 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:09:33,708 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:14:33,710 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:19:33,711 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:24:33,712 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:29:33,712 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:34:33,713 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:39:33,714 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:44:33,716 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:49:33,718 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:54:33,721 INFO [HEALTH-CHECK] health check is true
+
+2020-11-16 18:59:33,723 INFO [HEALTH-CHECK] health check is true
+
